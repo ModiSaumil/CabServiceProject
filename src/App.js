@@ -12,7 +12,6 @@ function App() {
   
   return (
     <div>
-   
       <div className={`container${isContainerActive ? " right-panel-active" : ""}`} id="container">
         <div className="form-container sign-up-container">
           <form action="#">
